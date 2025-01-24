@@ -12,7 +12,7 @@ P.S. Find the hidden wizard to play around with the in-game level editor!
 
 ### Gameplay Demo Videos
 **Game Trailer**
-https://user-images.githubusercontent.com/39693704/132954402-4382ec27-d300-4616-8110-0fd23b04cd1b.mp4
+
 
 
 
